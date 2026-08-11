@@ -1,0 +1,10 @@
+{
+  "description": "Manage and monitor vehicle fleets with real-time tracking, alerts, and detailed reports through an intuitive dashboard designed for fleet operators.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
